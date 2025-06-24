@@ -13,7 +13,6 @@ Engineering-grade flight time calculator for multirotors that achieves **95%+ ac
 ## 🎯 **Live Calculator**
 **👉 [Try it now: sidharthmohannair.github.io/multirotor-flight-calculator](https://sidharthmohannair.github.io/multirotor-flight-calculator)**
 
-![Calculator Preview](https://via.placeholder.com/800x400/667eea/white?text=Professional+Multirotor+Calculator)
 
 ## ⭐ **Why This Calculator is Different**
 
