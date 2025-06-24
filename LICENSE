@@ -19,3 +19,41 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## Attribution Requirements
+
+When using this code or derivative works, you must:
+
+1. **Include this entire license text** in your project
+2. **Maintain the copyright notice** with Sidharth Mohan Nair's name
+3. **Credit the original work** with text like:
+   - "Based on Professional Multirotor Calculator by Sidharth Mohan Nair"
+   - "Original source: https://github.com/sidharthmohannair/multirotor-flight-calculator"
+
+### For Academic/Research Use:
+Please cite as:
+```
+Nair, S. M. (2025). Professional Multirotor Flight Time Calculator. 
+GitHub. https://github.com/sidharthmohannair/multirotor-flight-calculator
+```
+
+### For Commercial Use:
+Commercial use is permitted under MIT License terms. Attribution must be visible to end users (e.g., in about page, credits section, or documentation).
+
+### What You CAN Do:
+✅ Use commercially  
+✅ Modify and distribute  
+✅ Use in proprietary software  
+✅ Sell products using this code  
+
+### What You MUST Do:
+⚠️ Include copyright notice  
+⚠️ Include this license text  
+⚠️ Attribute original author  
+
+### What is NOT Allowed:
+❌ Remove copyright notices  
+❌ Claim original authorship  
+❌ Use without attribution
